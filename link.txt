@@ -1,0 +1,13 @@
+https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe
+https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.1.2-1/rubyinstaller-devkit-3.1.2-1-x64.exe
+https://cran.r-project.org/bin/windows/base/R-4.2.1-win.exe
+https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.msi
+https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe
+N/A
+https://nodejs.org/dist/v16.17.1/node-v16.17.1-x64.msi
+https://windows.php.net/downloads/releases/php-8.1.11-Win32-vs16-x64.zip
+https://az764295.vo.msecnd.net/stable/74b1f979648cc44d385a2286793c226e611f59e7/VSCodeUserSetup-x64-1.71.2.exe
+https://www.avast.com/en-in/download-thank-you.php?product=FAV-PPC&locale=en-in&direct=1
+N/A
+https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe

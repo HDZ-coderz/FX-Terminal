@@ -1,0 +1,13 @@
+#include <iostream>
+#include <windows.h>
+#include <unistd.h>
+#include <mmsystem.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <dirent.h>
+#include <vector>
+#include <conio.h>
+#include <sys/param.h>
+#include <string>
+#include <cstring>
+#include <fstream>
